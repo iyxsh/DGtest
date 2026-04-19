@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "mappings": [
+    {
+      "original": "E:\data\gitCode\test",
+      "relative": "scan_paths/0/",
+      "index": 0
+    },
+    {
+      "original": "E:\data\gitCode\test2",
+      "relative": "scan_paths/1/",
+      "index": 1
+    }
+  ]
+}
